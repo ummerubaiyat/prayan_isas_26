@@ -1,0 +1,2 @@
+MethodKey,ProtocolKey,Macro_F1,Weighted_F1,Accuracy,Eval_N,Classes
+ensemble_class_aware,forward,0.3159298493416404,0.5972987407144508,0.6053495105473597,36265,23
