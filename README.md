@@ -1,4 +1,4 @@
-# Prayan - ISAS 2026 BLE Indoor Localization Challenge
+#  ISAS 2026 BLE Indoor Localization Challenge (Repo - Team Prayan)
 
 This repository contains the reproducible Python implementation used by **Team Prayan** for the **ISAS 2026 Challenge** on BLE-based indoor location recognition in a nursing-care facility.
 
